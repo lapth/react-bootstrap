@@ -125,7 +125,7 @@
     "dom-helpers": "^3.2.0",
     "invariant": "^2.2.3",
     "keycode": "^2.1.2",
-    "popper.js": "^1.14.3",
+    "popper.js": "^1.16.1",
     "prop-types": "^15.6.2",
     "prop-types-extra": "^1.1.0",
     "react-context-toolbox": "^1.2.3",
