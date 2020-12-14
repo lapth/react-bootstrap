@@ -129,7 +129,7 @@
     "prop-types": "^15.6.2",
     "prop-types-extra": "^1.1.0",
     "react-context-toolbox": "^1.2.3",
-    "react-overlays": "^1.0.0-beta.17",
+    "react-overlays": "^1.0.0",
     "react-prop-types": "^0.4.0",
     "react-transition-group": "^2.4.0",
     "uncontrollable": "^6.0.0",
